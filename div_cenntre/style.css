@@ -1,0 +1,17 @@
+.parent{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background:orange;
+    position: relative;
+}
+
+.child{
+    width: 10px;
+    height: 10px;
+    background: red;
+    position:absolute;
+}
+
